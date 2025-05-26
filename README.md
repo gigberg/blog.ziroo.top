@@ -14,7 +14,7 @@ You can also see the auto-generated deployable files at [gh-pages] branch.
 ### Get the project
 
 ```raw
-$ git clone https://github.com/chawyehsu/chawyehsu.com
+$ git clone https://github.com/gigberg/blog.ziroo.top
 $ cd chawyehsu.com
 ```
 
@@ -59,12 +59,12 @@ Requests to use our content are considered on a case by case basis for reasonabl
 accommodation.</em></sub>
 
 
-[deployment-url]: https://github.com/chawyehsu/chawyehsu.com/actions?query=workflow%3ADeployment
-[deployment-badge]: https://img.shields.io/github/actions/workflow/status/chawyehsu/chawyehsu.com/deployment.yml?style=flat&labelColor=121212&colorB=544D6B
+[deployment-url]: https://github.com/gigberg/blog.ziroo.top/actions?query=workflow%3ADeployment
+[deployment-badge]: https://img.shields.io/github/actions/workflow/status/gigberg/blog.ziroo.top/deployment.yml?style=flat&labelColor=121212&colorB=544D6B
 [generator-url]: https://github.com/chawyehsu/saber
 [generator-badge]: https://img.shields.io/badge/Powered%20by-Saber%20Alter-544D6B.svg?style=flat&labelColor=121212&colorB=544D6B
-[repo-url]: https://github.com/chawyehsu/chawyehsu.com
-[repo-badge]: https://img.shields.io/github/repo-size/chawyehsu/chawyehsu.com.svg?style=flat&labelColor=121212&colorB=544D6B
-[website]: https://chawyehsu.com
-[gh-pages]: https://github.com/chawyehsu/chawyehsu.com/tree/gh-pages
+[repo-url]: https://github.com/gigberg/blog.ziroo.top
+[repo-badge]: https://img.shields.io/github/repo-size/gigberg/blog.ziroo.top.svg?style=flat&labelColor=121212&colorB=544D6B
+[website]: https://blog.ziroo.top
+[gh-pages]: https://github.com/gigberg/blog.ziroo.top/tree/gh-pages
 [daneden.me]: https://github.com/daneden/daneden.me
