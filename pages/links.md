@@ -11,7 +11,7 @@ comments: false
 
 我收纳的一些站点。大多数是单向链接，所以并不能算是通常意义上的“友链”页面，故称之为
 Links，也就没有所谓的**友链申请**。不过如果你实在有意愿让你的链接出现在此页面，可
-以前往我博客的[源码仓库](https://github.com/chawyehsu/chawyehsu.com)，找到并编辑
+以前往我博客的[源码仓库](https://github.com/chawyehsu/blog.ziroo.top)，找到并编辑
 `pages/links.md` 文件增加你的链接，然后发个拉取请求，我会回访后视情况进行合并。
 
  - [程沛权](https://chengpeiquan.com) 【养了三只猫的大哥】

@@ -1,4 +1,4 @@
-# chawyehsu.com
+# blog.ziroo.top
 
 [![deployment][deployment-badge]][deployment-url]
 [![generator][generator-badge]][generator-url]
@@ -15,7 +15,7 @@ You can also see the auto-generated deployable files at [gh-pages] branch.
 
 ```raw
 $ git clone https://github.com/gigberg/blog.ziroo.top
-$ cd chawyehsu.com
+$ cd blog.ziroo.top
 ```
 
 ### Run and play

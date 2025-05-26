@@ -11,7 +11,7 @@ comments: false
 
 <small>Last Updated: 2023-08-17</small>
 
-This Privacy Policy describes how CHAWYEHSU ("we", "us", or "our") collects, uses, and shares your personal information when you visit `chawyehsu.com` (the "Website"). By using the Website, you consent to the practices described in this Privacy Policy.
+This Privacy Policy describes how CHAWYEHSU ("we", "us", or "our") collects, uses, and shares your personal information when you visit `blog.ziroo.top` (the "Website"). By using the Website, you consent to the practices described in this Privacy Policy.
 
 ### 1. Information We Collect
 

@@ -6,7 +6,7 @@ module.exports = {
   theme: './theme',
   siteConfig: {
     lang: 'zh-cn',
-    url: 'https://chawyehsu.com',
+    url: 'https://blog.ziroo.top',
     title: 'Chawye Hsu',
     description: 'Personal Website of Chawye Hsu',
     keywords: 'blog,blogger,个人博客,中文独立博客',
@@ -14,7 +14,7 @@ module.exports = {
     disqusjs: {
       shortname: 'h404bi',
       siteName: 'Chawye Hsu',
-      api: 'https://chawyehsu.com/api/disqus/',
+      api: 'https://blog.ziroo.top/api/disqus/',
       apikey: 'Hg3FyAX4IodvgGm8OAIpuplfZW5APk2DYcuVk9DEEDSBijKPdPdooKBX7683fo6u',
       admin: 'chawyehsu',
       adminLabel: 'Mod',
@@ -109,7 +109,7 @@ module.exports = {
     {
       resolve: './packages/saber-plugin-ga4',
       options: {
-        gtagUrl: 'https://chawyehsu.com/api/event',
+        gtagUrl: 'https://blog.ziroo.top/api/event',
         trackId: 'G-3MTYZQ2JGB',
       },
     },

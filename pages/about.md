@@ -59,12 +59,12 @@ nometa: true
 内容，意味着您侵犯了我们的版权。如果您对具体内容授权存在疑问，欢迎在引用内容之前通
 过电子邮件联系我们。
 
-[1]: mailto:su+blog@chawyehsu.com
+[1]: mailto:su+blog@blog.ziroo.top
 [GitHub]: https://github.com/chawyehsu
 [NeteaseCloudMusic]: http://music.163.com/#/user/home?id=35631431
 [Telegram]: https://t.me/chawyehsu
 [Steam]: https://steamcommunity.com/profiles/76561198139243084
 [Twitter]: https://twitter.com/chawyehsu
 [Instagram]: https://www.instagram.com/chawyehsu
-[这里]: https://github.com/chawyehsu/chawyehsu.com
+[这里]: https://github.com/chawyehsu/blog.ziroo.top
 [Do Not Track]: https://en.wikipedia.org/wiki/Do_Not_Track

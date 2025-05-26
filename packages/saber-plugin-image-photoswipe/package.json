@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "author": "Chawye Hsu <chawyehsu@hotmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/chawyehsu/chawyehsu.com#readme",
+  "homepage": "https://github.com/chawyehsu/blog.ziroo.top#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chawyehsu/chawyehsu.com.git",
+    "url": "git+https://github.com/chawyehsu/blog.ziroo.top.git",
     "directory": "packages/saber-plugin-image-photoswipe"
   },
   "keywords": [

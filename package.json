@@ -4,7 +4,7 @@
   "private": true,
   "description": "This is Chawye Hsu's website",
   "author": "Chawye Hsu <chawyehsu@hotmail.com>",
-  "homepage": "https://chawyehsu.com",
+  "homepage": "https://blog.ziroo.top",
   "engines": {
     "node": ">=18"
   },

@@ -79,4 +79,4 @@ Thanks to [nuxt-community/google-adsense-module](https://github.com/nuxt-communi
 
 [MIT](LICENSE) © Chawye Hsu
 
-> [Website](https://chawyehsu.com) · GitHub [@chawyehsu](https://github.com/chawyehsu) · Twitter [@chawyehsu](https://twitter.com/chawyehsu)
+> [Website](https://blog.ziroo.top) · GitHub [@chawyehsu](https://github.com/chawyehsu) · Twitter [@chawyehsu](https://twitter.com/chawyehsu)

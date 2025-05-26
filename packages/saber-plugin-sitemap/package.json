@@ -4,10 +4,10 @@
   "description": "Sitemap generator plugin for Saber",
   "author": "Chawye Hsu <chawyehsu@hotmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/chawyehsu/chawyehsu.com/tree/master/packages/saber-plugin-sitemap",
+  "homepage": "https://github.com/chawyehsu/blog.ziroo.top/tree/master/packages/saber-plugin-sitemap",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chawyehsu/chawyehsu.com.git",
+    "url": "git+https://github.com/chawyehsu/blog.ziroo.top.git",
     "directory": "packages/saber-plugin-sitemap"
   },
   "keywords": [

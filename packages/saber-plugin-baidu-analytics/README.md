@@ -33,4 +33,4 @@ Your Baidu Analytics track identity.
 
 [MIT](LICENSE) © Chawye Hsu
 
-> [Website](https://chawyehsu.com) · GitHub [@chawyehsu](https://github.com/chawyehsu) · Twitter [@chawyehsu](https://twitter.com/chawyehsu)
+> [Website](https://blog.ziroo.top) · GitHub [@chawyehsu](https://github.com/chawyehsu) · Twitter [@chawyehsu](https://twitter.com/chawyehsu)
