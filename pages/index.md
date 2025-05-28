@@ -9,7 +9,8 @@ nometa: true
 
 ![北江. Oct 2021](./_assets/uploads/2021/10/20211015001.jpg?lazyLoad=false)
 {.right}
-yyy
+
+zzz
 欢迎来访……
 
 当前最新的文章是「[用 Rust 写的 Scoop 再实现](/blog/reimplementing-scoop-in-rust)」。
